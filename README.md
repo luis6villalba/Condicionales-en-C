@@ -1,7 +1,7 @@
 # Condicionales-en-C
 Desarrollar una serie de ejercicios con su debida explicación, que indiquen el uso de condicionales en lenguaje "C"
 
-/*Explicacion de como funciona este codigo en lenguaje C:
+Explicacion de como funciona este codigo en lenguaje C:
 
 1. Primero, se incluye la biblioteca -`stdio.h`- para funciones de entrada y salida.
 
@@ -23,7 +23,7 @@ Desarrollar una serie de ejercicios con su debida explicación, que indiquen el 
 
 10. Finalmente, la función -`main`- retorna a cero para indicar que el programa terminó correctamente.
 
-Espero que esta explicacion te sirva de ayuda para despejar posibles dudas de como funciona este codigo*/
+Espero que esta explicacion te sirva de ayuda para despejar posibles dudas de como funciona este codigo
 
 
 #include<stdio.h>
