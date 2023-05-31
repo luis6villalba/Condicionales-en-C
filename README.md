@@ -26,9 +26,9 @@ Explicacion de como funciona este codigo en lenguaje C:
 
 10. Finalmente, la función -`main`- retorna a cero para indicar que el programa terminó correctamente.
 
-Espero que esta explicacion te sirva de ayuda para despejar posibles dudas de como funciona este codigo
+Espero que esta explicacion te sirva de ayuda para despejar posibles dudas de como funciona este codigo.
 
-
+```
 #include<stdio.h>
 
 int main()
@@ -57,6 +57,7 @@ int main()
 
   return 0;
 }
+```
 
 ## Reto numero 2 - En el rango, por favor.
 
@@ -84,6 +85,7 @@ Explicacion de como funciona este codigo en lenguaje C:
 
 Espero que esta explicacion te sirva de ayuda para despejar posibles dudas de como funciona este codigo.
 
+```
 #include<stdio.h>
 
 int main()
@@ -106,6 +108,7 @@ int main()
 
     return 0;    
 }
+```
 
 ## Reto numero 3 - Rangos cambiantes.
 
@@ -135,6 +138,7 @@ Explicacion de como funciona este codigo en lenguaje C:
 
 Espero que esta explicacion te sirva de ayuda para despejar posibles dudas de como funciona este codigo.
 
+```
 #include<stdio.h>
 
 int main()
@@ -156,6 +160,7 @@ int main()
         }
     return 0;    
 }
+```
 
 # Reto numero 4 - I like turtles.
 
@@ -183,6 +188,7 @@ Explicacion de como funciona este codigo en lenguaje C:
 
 Espero que esta explicacion te sirva de ayuda para despejar posibles dudas de como funciona este codigo.
 
+```
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -213,6 +219,7 @@ int main()
 
     return 0;    
 }
+```
 
 ## Reto numero 5 - ¿Cómo está el clima?
 
@@ -245,6 +252,7 @@ Explicacion de como funciona este codigo en lenguaje C:
 
 Recuerda digitar el especio en blanco en cada una de tus respuestas cuando estes ejecutando el programa, eso evitara que salte al final del codigo y se cierre, espero que esta explicacion te sirva de ayuda para despejar posibles dudas de como funciona.
 
+```
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
@@ -290,6 +298,7 @@ int main()
 
     return 0;
 }
+```
 
 ## Reto numero 6 - Edad permitida
 
@@ -320,7 +329,7 @@ Explicacion de como funciona este codigo en lenguaje C:
 
 Espero que esta explicacion te sirva de ayuda para despejar posibles dudas de como funciona este codigo.
 
-
+```
 #include <stdio.h>
 
 int main() 
@@ -346,6 +355,7 @@ int main()
 
     return 0;
 }
+```
 
 ## Reto numero 7 - Mensajes opcionales
 
@@ -390,7 +400,7 @@ Explicacion de como funciona este codigo en lenguaje C:
 
 Espero que esta explicacion te sirva de ayuda para despejar posibles dudas de como funciona este codigo.
 
-
+```
 #include <stdio.h>
 
 int main()
@@ -429,5 +439,6 @@ int main()
 
     return 0;
 }
+```
 
 Gracias por llegar hasta aqui, los retos fueron planteados en el Curso de Control de Flujo en "C" de Platzi.
